@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1dd38d2b1deeaf92",
+    "type": "split",
+    "children": [
+      {
+        "id": "d69c7eb869f855f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7685462c545c9092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git 基本语句.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1034fcb6bdf01845",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d41b9393364e81b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f34a05d79d39a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03cfa2f188bf6bc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a48ef6e5db279b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77b756792f647c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fcff9ef8c4d9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff365ec633e252b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Git 基本语句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "998334fb21853f1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Git 基本语句.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "975070ef3515eaa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95262ac4b63bdfa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Git 基本语句.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7685462c545c9092",
+  "lastOpenFiles": [
+    "1.md",
+    "Code/C++/基础知识/指针.md",
+    "Code/C++/基础知识/类.md",
+    "Ubuntu/软件更新.md",
+    "Ubuntu/指令.md",
+    "Git/Git 基本语句.md",
+    "Markdown/语法.md",
+    "Git",
+    "Markdown/双链.md",
+    "Markdown/语法 1.md",
+    "Code/C++/opencv",
+    "Code/C++/基础知识",
+    "Code/C++/PNG/Pasted image 20240823180849.png",
+    "Code/C++/PNG/Pasted image 20240823180525.png",
+    "Ubuntu",
+    "Markdown/模板.md",
+    "Markdown/语法.html",
+    "Code/C++/PNG",
+    "Welcome.md",
+    "www.baidu.com.md",
+    "Markdown",
+    "Code/C++",
+    "Code/未命名.md",
+    "Code/未命名 1.md",
+    "指针.md",
+    "Code",
+    "2212.md"
+  ]
+}
