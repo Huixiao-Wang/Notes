@@ -2,5 +2,8 @@
   "file-explorer-note-count",
   "obsidian-pandoc",
   "obsidian-mind-map",
-  "quick-explorer"
+  "quick-explorer",
+  "mousewheel-image-zoom",
+  "quick-latex",
+  "obsidian-latex-suite"
 ]
