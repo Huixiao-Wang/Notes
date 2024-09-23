@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "f801aee89c08c2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff3d3d1731dca02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b27b6e55ae116d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/Ubuntu/Reinstall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a0030cbbbbac00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53956eb4fd06458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853cfb1dc45cb296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b161f6411759567e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f78e56c754bdc82e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98b98ea191135f89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c644ee43e6aff306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679b7f7d141e768f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "base/Ubuntu/Reinstall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a069b4fc7129994",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "base/Ubuntu/Reinstall.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e971e09e9a84f8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71ec7fc432bb32aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "base/Ubuntu/Reinstall.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b27b6e55ae116d05",
+  "lastOpenFiles": [
+    "base/Ubuntu/指令.md",
+    "base/Ubuntu/软件更新.md",
+    "README.md",
+    "未命名.canvas",
+    "2024-09-23.md",
+    "base/Ubuntu/Reinstall.md",
+    "base/Markdown/语法.md",
+    "base/Markdown/双链.md",
+    "base/Git/Git 基本语句.md",
+    "base/Code/C++/CV_Knowledge/卡尔曼滤波.md",
+    "base/Code/C++/CV_Knowledge/DLT.md"
+  ]
+}
