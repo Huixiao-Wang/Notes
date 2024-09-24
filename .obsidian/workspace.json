@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/Ubuntu/Reinstall.md",
+                "file": "base/Code/Python/线性回归.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Ubuntu/Reinstall.md",
+                "file": "base/Code/Python/线性回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/Ubuntu/Reinstall.md",
+                "file": "base/Code/Python/线性回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Ubuntu/Reinstall.md"
+                "file": "base/Code/Python/线性回归.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -149,12 +150,12 @@
   },
   "active": "b27b6e55ae116d05",
   "lastOpenFiles": [
+    "base/Ubuntu/Reinstall.md",
     "base/Ubuntu/指令.md",
     "base/Ubuntu/软件更新.md",
     "README.md",
     "未命名.canvas",
     "2024-09-23.md",
-    "base/Ubuntu/Reinstall.md",
     "base/Markdown/语法.md",
     "base/Markdown/双链.md",
     "base/Git/Git 基本语句.md",
